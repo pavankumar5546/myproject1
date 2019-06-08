@@ -1,4 +1,4 @@
-class helloworld {
+class Helloworld {
   public static void main(String[] args) {
     boolean learning = true;
  
